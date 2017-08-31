@@ -1,0 +1,74 @@
+
+h1{
+    color: white;
+}
+#imglogo{
+margin-top:10%;
+    border: 2px solid red;
+    border-radius: 5px;
+    width: 40%;
+
+}
+#box{margin-top:10%;
+    border: 2px solid red;
+    border-radius: 5px;}
+#link a{text-decoration: none }
+#scort{text-align: center;
+    color: white;
+    }
+#scorapp{font-size: 30px;
+text-align: center;
+}
+h4{
+    color: white;
+    size: 20px !important;
+}
+h3.scor{
+    font-size: 200%;
+
+}
+button{
+border-radius: 50%;
+    padding: 25px;
+    background-color: white;
+}
+
+#butt{margin-left: 42%;
+margin-top: 3%;}
+
+.a{margin-left: 5%;
+color: red;}
+#part{
+    margin-top:10%;
+    border: 2px solid red;
+    border-radius: 5px;
+}
+#calandar{
+    margin-top:10%;
+    border: 2px solid red;
+    border-radius: 5px;
+}
+#cal{
+    text-align: center;
+    color: white;
+}
+#imgp{background-color: transparent;}
+#pm{
+    margin-left: 45%;
+}
+
+#imgpart{
+    color: transparent;
+    height: 100px;
+    width: 150px;
+}
+.deco{
+    text-align: center;
+    color: white;
+    size: 10px;
+}
+.table-striped{
+    color: white;
+background-image: url("http://vps429848.ovh.net/wp-content/uploads/2017/07/parchment-990471_960_720.png") ;
+}
+
